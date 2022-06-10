@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristosData
-- 👀 I’m interested in Data Analytics, Visualisation/Modelling and data collection
+- 👀 I’m interested in Data analytics, visualisation/modelling and data collection
 - 📫 How to reach me : https://datawithchristos.co.uk
 
 <!---
