@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristosData
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytics, Visualisation/Modelling and data collection
+- 📫 How to reach me : https://datawithchristos.co.uk
 
 <!---
 ChristosData/ChristosData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
